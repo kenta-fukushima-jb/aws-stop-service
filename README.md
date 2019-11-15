@@ -3,8 +3,8 @@
 - ランタイム：Nodejs 10.x
 - ファイル名：index.js
 - 環境変数
-- REGION : XXXXXX(リージョン)
-- STOP_INSTANCES_NAME : XXXXXX(インスタンス名)、XXXXXX(インスタンス名)....
+    - REGION : XXXXXX(リージョン)
+    - STOP_INSTANCES_NAME : XXXXXX(インスタンス名)、XXXXXX(インスタンス名)....
 ## CloudWatch
 - cron式：00 14 * * ? *　（毎日23時（日本時間））
 ## IAM ポリシー
